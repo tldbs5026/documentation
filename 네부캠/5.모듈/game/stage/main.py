@@ -1,0 +1,1 @@
+{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[],"authorship_tag":"ABX9TyMik1N1n3uuwXXdSOO+6qXb"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"code","execution_count":null,"metadata":{"id":"N1RVflo3VJR9"},"outputs":[],"source":["__all__=['character','object']    # 같은 direc의 파일"]}]}
